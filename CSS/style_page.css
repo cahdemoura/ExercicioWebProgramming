@@ -1,0 +1,13 @@
+/*Comentario css*/
+h1{
+    background-color: blue;
+}
+
+p{
+    color: aqua;
+    border: 2px solid green;
+}
+
+input{
+    border: 1px solid orangered;
+}
